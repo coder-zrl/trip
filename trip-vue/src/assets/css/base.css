@@ -1,0 +1,24 @@
+html,body {
+  height: 100%;
+  width: 100%;
+  min-width: 1024px;
+  min-height: 650px;
+  padding: 0;
+  margin: 0;
+  /* background-color: black; */
+}
+
+* {
+  font-family:"宋体";
+  padding: 0;
+  margin: 0;
+}
+li {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+input:focus {
+  outline: none;
+}
